@@ -4,6 +4,7 @@ Project: jackson-jr
 === Releases ===
 ------------------------------------------------------------------------
 
+<<<<<<< HEAD
 2.7.3 (16-Mar-2016)
 
 #37: Update Jackson Jr Retrofit 2 Converter for Retrofit 2.0.0
@@ -32,6 +33,12 @@ No changes since 2.7.0
 
 #27: JSON.Feature.READ_JSON_ARRAYS_AS_JAVA_ARRAYS does not work
 - Minor fix to resolution of self-referential types (fix #28 from java-classmate)
+=======
+2.6.6 (not yet released)
+
+#40: Cannot read empty or singleton arrays with JSON.arrayOfFrom
+ (reported by Giulio P)
+>>>>>>> cb5c448
 
 2.6.5 (19-Jan-2015)
 2.6.4 (07-Dec-2015)
